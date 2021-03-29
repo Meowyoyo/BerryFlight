@@ -12,13 +12,14 @@ Send the video digital over Wifibroadcast or analog via a normal 5.8 GHz VTX.
 - 36x36mm 6-layer board, 30.5mm mounting holes
 - ICM-20602 gyro
 - BME280 baro
-- Allwinner H6 SoC Quad-Core A53 @ 1.8GHz
+- Rockchip RV1126 ARM quadcore Cortex-A7 
 - 2GB Samsung LPDDR3 933MHz RAM
 - 8GB Samsung eMMC storage
 - analog video out
 - USB 2.0 and USB 3.0
 - TVP5150AM1 analog video in IC, 2 channel
 - AXP805 power management IC, 5 channel DC-DC, 10 channel LDO
+
 
 ## WIP:
 Any additional functions needed?
