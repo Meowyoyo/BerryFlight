@@ -13,8 +13,8 @@ Send the video digital over Wifibroadcast or analog via a normal 5.8 GHz VTX.
 - ICM-20602 gyro
 - BME280 baro
 - Rockchip RV1126 ARM quadcore Cortex-A7 
-- 2GB Samsung LPDDR3 933MHz RAM
-- 8GB Samsung eMMC storage
+- 2GB LPDDR3 RAM
+- 8GB eMMC storage
 - analog video out
 - USB 2.0 and USB 3.0
 - TVP5150AM1 analog video in IC, 2 channel
