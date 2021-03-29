@@ -1,3 +1,6 @@
+![BerryFlight Logo]((https://github.com/KingKone/BerryFlight/img/logo.png)
+
+
 # BerryFlight
 A UAV flight controller with advanced video and computing capabilities.
 
