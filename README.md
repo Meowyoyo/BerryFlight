@@ -26,8 +26,9 @@ Send the video digital over Wifibroadcast or analog via a normal 5.8 GHz VTX.
 - AXP805 power management IC, 5 channel DC-DC, 10 channel LDO
 
 
-## WIP:
+## Contact:
 Any additional functions needed?
 Feel free to improve my design.
 Open to any kind of input!
 
+[Telegram Group](https://t.me/joinchat/x0q7eM5X5ahhNjhi)
