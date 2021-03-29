@@ -2,7 +2,7 @@
 A UAV flight controller with advanced video and computing capabilities.
 
 BerryFlight is a flight control board based on established BetaFlight / INAV Flight STM32 flifgt controllers. 
-In addition to that it brings a H6 ARM Quadcore SoC @ 1,8 GHz, 2 GB of RAM and 8 GB of storage.
+In addition to that it brings a RV1126 ARM Quadcore SoC, 2 GB of RAM and 8 GB of storage.
 The on board Linux will propell you UAV into the next century =D
 Running OpenHD with a USB Cam or use the two analog video inputs. 
 Send the video digital over Wifibroadcast or analog via a normal 5.8 GHz VTX.
