@@ -1,4 +1,4 @@
-![BerryFlight Logo](https://github.com/KingKone/BerryFlight/img/logo.png)
+![BerryFlight Logo](https://github.com/KingKone/BerryFlight/raw/main/img/logo.png)
 
 
 # BerryFlight
