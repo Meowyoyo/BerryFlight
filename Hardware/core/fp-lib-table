@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "berryflight")(type "KiCad")(uri "/home/daniel/KWADs/BerryFlight/Hardware/libs/berryflight.pretty")(options "")(descr ""))
+)
