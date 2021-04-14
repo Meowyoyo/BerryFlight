@@ -998,14 +998,14 @@
     (uuid b280b462-0dbb-47f5-983a-79d8119e74f0)
   )
 
-  (sheet (at 30.48 90.17) (size 53.34 29.21) (fields_autoplaced)
+  (sheet (at 90.17 87.63) (size 53.34 29.21) (fields_autoplaced)
     (stroke (width 0.0006) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid e25c5f3e-57b5-4d7a-a8af-98b1826cae36)
-    (property "Sheet name" "Audio" (id 0) (at 30.48 89.5343 0)
+    (property "Sheet name" "Audio" (id 0) (at 90.17 86.9943 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "audio.kicad_sch" (id 1) (at 30.48 119.8887 0)
+    (property "Sheet file" "audio.kicad_sch" (id 1) (at 90.17 117.3487 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -1058,6 +1058,18 @@
     )
   )
 
+  (sheet (at 30.48 87.63) (size 53.34 29.21) (fields_autoplaced)
+    (stroke (width 0.0006) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2b4337a7-31ba-4b62-90e4-5bec465ff16f)
+    (property "Sheet name" "more power supplys" (id 0) (at 30.48 86.9943 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "more power.kicad_sch" (id 1) (at 30.48 117.3487 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
     (path "/6c118876-d3ac-416c-9a7f-fc7533e7cb32/" (page "2"))
@@ -1065,6 +1077,7 @@
     (path "/bdbcefbb-2a6a-4c95-8565-c279c763c251/" (page "4"))
     (path "/a74c9d3b-864a-43d5-bde6-cbf00bb39165/" (page "5"))
     (path "/e25c5f3e-57b5-4d7a-a8af-98b1826cae36/" (page "6"))
+    (path "/2b4337a7-31ba-4b62-90e4-5bec465ff16f/" (page "7"))
   )
 
   (symbol_instances
@@ -1539,14 +1552,17 @@
     (path "/a74c9d3b-864a-43d5-bde6-cbf00bb39165/da19fd8b-efb1-4f5a-ae9d-b7ab2ae19fea"
       (reference "R?") (unit 1) (value "0,1R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/a74c9d3b-864a-43d5-bde6-cbf00bb39165/fcf47248-2ab2-4874-8e1b-f981cb0c8c68"
+      (reference "R?") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/a74c9d3b-864a-43d5-bde6-cbf00bb39165/b7ebb9f2-f07e-4a37-9537-24cd3b8b28c7"
       (reference "U?") (unit 4) (value "RV1126") (footprint "berryflight: RV1126")
     )
     (path "/a74c9d3b-864a-43d5-bde6-cbf00bb39165/c358314d-8df3-46a6-84df-4e464b02b8fa"
       (reference "Y?") (unit 1) (value "24Mhz") (footprint "")
     )
-    (path "/e25c5f3e-57b5-4d7a-a8af-98b1826cae36/210a6a86-46c6-44af-97eb-10f8190287ac"
-      (reference "U?") (unit 3) (value "RK809") (footprint "berryflight:QFN-68_EP_7x7_Pitch0.35mm")
+    (path "/2b4337a7-31ba-4b62-90e4-5bec465ff16f/210a6a86-46c6-44af-97eb-10f8190287ac"
+      (reference "U?") (unit 1) (value "RK809") (footprint "berryflight:QFN-68_EP_7x7_Pitch0.35mm")
     )
   )
 )
