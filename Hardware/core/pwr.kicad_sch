@@ -7651,6 +7651,15 @@
     )
   )
 
+  (text "FB loop" (at 223.52 80.01 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 6a2054d3-3bfd-4cb6-a7a2-b5a5c4488848)
+  )
+  (text "FB loop" (at 224.79 53.34 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 299932a0-c67b-4aaf-993e-c1db006e005a)
+  )
+
   (global_label "BC_VDD_VEPU" (shape input) (at 144.78 201.93 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f568b82a-91f8-4361-9969-70c6ed062b9e)
