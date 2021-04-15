@@ -1456,6 +1456,21 @@
     (path "/6c118876-d3ac-416c-9a7f-fc7533e7cb32/caf16382-2178-4bb9-9b02-3a64068cdd5c"
       (reference "U?") (unit 4) (value "RK809") (footprint "berryflight:QFN-68_EP_7x7_Pitch0.35mm")
     )
+    (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/4b27c045-d1ce-4aa7-b5ce-dd5e70b3afef"
+      (reference "U?") (unit 1) (value "NCEPNA6M4-0808") (footprint "")
+    )
+    (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/5364d04b-ce4e-4f30-a550-700449024e5f"
+      (reference "U?") (unit 2) (value "NCEPNA6M4-0808") (footprint "")
+    )
+    (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/0cdb7ace-794f-475a-b549-750288eee154"
+      (reference "U?") (unit 3) (value "NCEPNA6M4-0808") (footprint "")
+    )
+    (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/67dd603d-73d9-4380-b288-c4fd64dfc229"
+      (reference "U?") (unit 4) (value "NCEPNA6M4-0808") (footprint "")
+    )
+    (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/63a12a52-3ef9-4645-ba9f-105d34dc52df"
+      (reference "U?") (unit 5) (value "NCEPNA6M4-0808") (footprint "")
+    )
     (path "/a74c9d3b-864a-43d5-bde6-cbf00bb39165/0c9d0e26-9181-4ac5-890f-ebcb4f97ae87"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
