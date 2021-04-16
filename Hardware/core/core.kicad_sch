@@ -1468,8 +1468,14 @@
     (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/67dd603d-73d9-4380-b288-c4fd64dfc229"
       (reference "U?") (unit 4) (value "NCEPNA6M4-0808") (footprint "")
     )
+    (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/22d6cf18-ccc5-4367-9f7e-b465be696850"
+      (reference "U?") (unit 5) (value "RV1126") (footprint "berryflight: RV1126")
+    )
     (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/63a12a52-3ef9-4645-ba9f-105d34dc52df"
       (reference "U?") (unit 5) (value "NCEPNA6M4-0808") (footprint "")
+    )
+    (path "/1deeb60b-7b1a-4a56-989c-db4352e30d81/cf1d1790-ffe7-43e8-8db2-07b2c01e1bd5"
+      (reference "U?") (unit 6) (value "RV1126") (footprint "berryflight: RV1126")
     )
     (path "/a74c9d3b-864a-43d5-bde6-cbf00bb39165/0c9d0e26-9181-4ac5-890f-ebcb4f97ae87"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
